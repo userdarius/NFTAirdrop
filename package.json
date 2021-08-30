@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/userdarius/NFTAirdrop/issues"
   },
-  "homepage": "https://github.com/userdarius/NFTAirdrop#readme"
+  "homepage": "https://github.com/userdarius/NFTAirdrop#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
 }
